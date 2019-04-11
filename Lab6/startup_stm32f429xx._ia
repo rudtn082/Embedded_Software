@@ -1,0 +1,8 @@
+--cpu Cortex-M4.fp -g --apcs=interwork --pd "__MICROLIB SETA 1"
+-I "D:\OneDrive - 충남대학교\CnuLecture\embeddedSoftware\practice\06_190411\Lab6_GPIO_USART\RTE"
+-I "D:\OneDrive - 충남대학교\CnuLecture\embeddedSoftware\practice\06_190411\Lab6_GPIO_USART\RTE\Device\STM32F429IITx"
+-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include
+-I C:\Keil_v5\ARM\PACK\Keil\STM32F4xx_DFP\2.4.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include
+-I C:\Keil_v5\ARM\PACK\Keil\STM32F4xx_DFP\2.4.0\Drivers\STM32F4xx_HAL_Driver\Inc
+--pd "__UVISION_VERSION SETA 518" --pd "_RTE_ SETA 1" --pd "STM32F429xx SETA 1"
+--list .\listings\startup_stm32f429xx.lst --xref -o .\startup_stm32f429xx.o --depend .\startup_stm32f429xx.d "RTE\Device\STM32F429IITx\startup_stm32f429xx.s"

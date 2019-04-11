@@ -1,0 +1,32 @@
+.\stm324x9i_eval.o: SRC\stm324x9i_eval.c
+.\stm324x9i_eval.o: SRC\stm324x9i_eval.h
+.\stm324x9i_eval.o: C:\Keil_v5\ARM\PACK\Keil\STM32F4xx_DFP\2.4.0\Drivers\STM32F4xx_HAL_Driver\Inc\stm32f4xx_hal.h
+.\stm324x9i_eval.o: D:\OneDrive - 충남대학교\CnuLecture\embeddedSoftware\practice\06_190411\Lab6_GPIO_USART\RTE\Device\STM32F429IITx\stm32f4xx_hal_conf.h
+.\stm324x9i_eval.o: D:\OneDrive - 충남대학교\CnuLecture\embeddedSoftware\practice\06_190411\Lab6_GPIO_USART\RTE\RTE_Components.h
+.\stm324x9i_eval.o: C:\Keil_v5\ARM\PACK\Keil\STM32F4xx_DFP\2.4.0\Drivers\STM32F4xx_HAL_Driver\Inc\stm32f4xx_hal_rcc.h
+.\stm324x9i_eval.o: C:\Keil_v5\ARM\PACK\Keil\STM32F4xx_DFP\2.4.0\Drivers\STM32F4xx_HAL_Driver\Inc\stm32f4xx_hal_def.h
+.\stm324x9i_eval.o: C:\Keil_v5\ARM\PACK\Keil\STM32F4xx_DFP\2.4.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f4xx.h
+.\stm324x9i_eval.o: C:\Keil_v5\ARM\PACK\Keil\STM32F4xx_DFP\2.4.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f429xx.h
+.\stm324x9i_eval.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cm4.h
+.\stm324x9i_eval.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\stm324x9i_eval.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmInstr.h
+.\stm324x9i_eval.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\cmsis_armcc.h
+.\stm324x9i_eval.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmFunc.h
+.\stm324x9i_eval.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmSimd.h
+.\stm324x9i_eval.o: C:\Keil_v5\ARM\PACK\Keil\STM32F4xx_DFP\2.4.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\system_stm32f4xx.h
+.\stm324x9i_eval.o: C:\Keil_v5\ARM\PACK\Keil\STM32F4xx_DFP\2.4.0\Drivers\STM32F4xx_HAL_Driver\Inc\stm32f4xx_hal_rcc_ex.h
+.\stm324x9i_eval.o: C:\Keil_v5\ARM\PACK\Keil\STM32F4xx_DFP\2.4.0\Drivers\STM32F4xx_HAL_Driver\Inc\stm32f4xx_hal_gpio.h
+.\stm324x9i_eval.o: C:\Keil_v5\ARM\PACK\Keil\STM32F4xx_DFP\2.4.0\Drivers\STM32F4xx_HAL_Driver\Inc\stm32f4xx_hal_gpio_ex.h
+.\stm324x9i_eval.o: C:\Keil_v5\ARM\PACK\Keil\STM32F4xx_DFP\2.4.0\Drivers\STM32F4xx_HAL_Driver\Inc\stm32f4xx_hal_dma.h
+.\stm324x9i_eval.o: C:\Keil_v5\ARM\PACK\Keil\STM32F4xx_DFP\2.4.0\Drivers\STM32F4xx_HAL_Driver\Inc\stm32f4xx_hal_dma_ex.h
+.\stm324x9i_eval.o: C:\Keil_v5\ARM\PACK\Keil\STM32F4xx_DFP\2.4.0\Drivers\STM32F4xx_HAL_Driver\Inc\stm32f4xx_hal_cortex.h
+.\stm324x9i_eval.o: C:\Keil_v5\ARM\PACK\Keil\STM32F4xx_DFP\2.4.0\Drivers\STM32F4xx_HAL_Driver\Inc\stm32f4xx_hal_flash.h
+.\stm324x9i_eval.o: C:\Keil_v5\ARM\PACK\Keil\STM32F4xx_DFP\2.4.0\Drivers\STM32F4xx_HAL_Driver\Inc\stm32f4xx_hal_flash_ex.h
+.\stm324x9i_eval.o: C:\Keil_v5\ARM\PACK\Keil\STM32F4xx_DFP\2.4.0\Drivers\STM32F4xx_HAL_Driver\Inc\stm32f4xx_hal_flash_ramfunc.h
+.\stm324x9i_eval.o: C:\Keil_v5\ARM\PACK\Keil\STM32F4xx_DFP\2.4.0\Drivers\STM32F4xx_HAL_Driver\Inc\stm32f4xx_hal_pwr.h
+.\stm324x9i_eval.o: C:\Keil_v5\ARM\PACK\Keil\STM32F4xx_DFP\2.4.0\Drivers\STM32F4xx_HAL_Driver\Inc\stm32f4xx_hal_pwr_ex.h
+.\stm324x9i_eval.o: C:\Keil_v5\ARM\PACK\Keil\STM32F4xx_DFP\2.4.0\Drivers\STM32F4xx_HAL_Driver\Inc\stm32f4xx_hal_uart.h
+.\stm324x9i_eval.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\stm324x9i_eval.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\stm324x9i_eval.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\stm324x9i_eval.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
