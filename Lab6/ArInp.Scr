@@ -1,5 +1,0 @@
---create .\04_UART.lib
-.\main.o
-.\stm32f4xx_hal_msp.o
-.\stm32f4xx_it.o
-.\stm324x9i_eval.o

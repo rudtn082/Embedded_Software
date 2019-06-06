@@ -1,2 +1,11 @@
-# ìž„ë² ë””ë“œ ì†Œí”„íŠ¸ì›¨ì–´  
-2019í•™ë…„ë„ 1í•™ê¸°  
+# ÀÓº£µðµå ¼ÒÇÁÆ®¿þ¾î  
+
+## 2019 CNU ÀÓº£µðµå Ã§¸°Áö  
+* ¾ÆÄ§ 9½Ã Æ®·¢ ¿ÀÇÂ  
+* ¾ÆÄ§ 10½Ã 40ºÐ 1Â÷ ÁÖÇà  
+* ¾ÆÄ§ 11½Ã 20ºÐ 2Â÷ ÁÖÇà  
+
+¿ì¸®ÆÀÀº ÇÏµå¿þ¾îÀÇ ¹®Á¦°¡ ¸¹¾Æ¼­, ¹ÙÄûÀÇ CalibrationÀº Æ÷±âÇÏ°í ¼ÒÇÁÆ®¿þ¾î·Î ÇØ°áÇÏ·Á°í ³ë·ÂÇßÀ¸³ª µÎ ¹ø´Ù ½ÇÆÐÇß´Ù....  
+
+1Â÷ ÁÖÇà : https://youtu.be/ncrMAvfR1F8  
+2Â÷ ÁÖÇà : https://youtu.be/j7jyT7yhHP4  
